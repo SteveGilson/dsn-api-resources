@@ -43,7 +43,7 @@
 			</xs:annotation>
 		</xs:element>
 		<xs:element name="RO_B000" type="gipmds:RO_B000" minOccurs="1" maxOccurs="1"/>
-		<xs:element name="RO_B001" type="gipmds:RO_B001" minOccurs="1" maxOccurs="1"/>
+		<xs:element name="RO_B001" type="gipmds:Compte_Rendu_Métier" minOccurs="1" maxOccurs="1"/>
 	</xs:sequence>
 </xs:complexType>
 
